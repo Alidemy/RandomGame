@@ -170,6 +170,7 @@ namespace Part05
             TimerB.Interval = tInterval;
             TimerG.Interval = tInterval;
             TimerR.Interval = tInterval;
+            //how are you ?
         }
 
         private void ButtonStart_Click(object sender, EventArgs e)
